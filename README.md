@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Singh-Sushant
 - 👀 I’m interested in Web Developement  
-- 🌱 I’m currently learning Backend
+- 🌱 I’m currently building projects.
 - 📫 How to reach me ss468200@gmail.com
   
 
